@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/dhkim92/kit/issues"
   },
-  "homepage": "https://github.com/dhkim92/kit#readme"
+  "homepage": "https://github.com/dhkim92/kit#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
 }
